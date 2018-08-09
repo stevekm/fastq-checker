@@ -1,0 +1,10 @@
+nextflow
+input
+flowchart.dot
+trace.txt
+.nextflow.log
+.nextflow
+trace.txt
+trace.txt*
+.nextflow.log*
+work
