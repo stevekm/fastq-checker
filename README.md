@@ -11,7 +11,7 @@ Quick workflow for checking the validity of `.fastq.gz` files
 Clone this repository
 
 ```
-git clone fastq-checker
+git clone https://github.com/stevekm/fastq-checker.git
 cd fastq-checker
 ```
 
